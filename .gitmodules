@@ -1,0 +1,3 @@
+[submodule "alpine-java/java-expr"]
+	path = alpine-java/java-expr
+	url = git@github.com:dzeban/java-expr.git
